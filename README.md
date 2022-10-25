@@ -7,7 +7,7 @@ xcode-select --install
 Clone repo into new hidden directory.
 ```
 # Use SSH (if set up)...
-    git clone git@github.com:eieioxyz/Beyond-Dotfiles-in-100-Seconds.git ~/.dotfiles
+git clone https://github.com/tufanbutuner/.dotfiles.git ~/.dotfiles
 ```
 Create symlinks in the Home directory to the real files in the repo.
 
